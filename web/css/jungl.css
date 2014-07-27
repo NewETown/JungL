@@ -9,7 +9,7 @@ html, body {
 }
 
 /* Wrapper for page content to push down footer */
-.wrap {
+.wrap-2 {
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
@@ -30,6 +30,10 @@ html, body {
 
 .right-spacer {
 	margin-right: 15px;
+}
+
+.social-icon {
+	max-width: 35px;
 }
 
 .color-bar {
