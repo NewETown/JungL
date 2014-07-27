@@ -60,6 +60,14 @@ html, body {
 	height: 55px;
 }
 
+.pad-left {
+	padding-right: 10px;
+}
+
+.pad-right {
+	padding-left: 10px;
+}
+
 .yellow {
 	background: #e6c729;
 }
