@@ -1,5 +1,11 @@
 html, body {
 	height: 100%;
+	color: #fff;
+}
+
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+	/*padding-left: 0px;
+	padding-right: 0px;*/
 }
 
 /* Wrapper for page content to push down footer */
@@ -15,5 +21,53 @@ html, body {
 /* Set the fixed height of the footer here */
 .footer {
   height: 60px;
-  background-color: #f5f5f5;
+}
+
+.hero {
+	z-index: 9999 !important;
+	margin-bottom: -125px;
+}
+
+.right-spacer {
+	margin-right: 15px;
+}
+
+.color-bar {
+	padding-bottom: -10px;
+	max-height: 55px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.light-blue {
+	background: #7ACDD0;
+}
+
+.logo {
+	width: 450px;
+	height: auto;
+}
+
+.cta-text {
+	margin-top: 15%;
+}
+
+.instinct > img {
+	height: 55px;
+}
+
+.yellow {
+	background: #e6c729;
+}
+
+.green {
+	background: #99ca3c;
+}
+
+.red {
+	background: #d2504c;
+}
+
+.dark-blue {
+	background: #33a3b1;
 }
